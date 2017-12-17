@@ -1,4 +1,4 @@
-#centOS chinese support
+# centOS chinese support
 1. login in:`$ su root`
 2. install: `$ yum install "@Chinese Support"`
 3. quit and relogin
@@ -7,7 +7,7 @@
 6. quit and relogin
 
 ***
-#install anaconda in centOS
+# install anaconda in centOS
 1. download Anaconda3-5.0.1-Linux-x86_64.sh in https://www.continuum.io/downloads
 2. install `$ bash Anaconda3-5.0.1-Linux-x86_64.sh`
 3. press ENTER\yes to continue
@@ -15,7 +15,7 @@
 5. check `$ conda --version`
 
 ***
-#install ReText with pip
+# install ReText with pip
 > we got pip after anaconda installed
 
 >just on command, it's very simple
