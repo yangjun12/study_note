@@ -24,3 +24,5 @@
 3. open `retext`
 
 
+# Python learning
+http://coredumper.cn/index.php/2017/08/19/python_booklist/
